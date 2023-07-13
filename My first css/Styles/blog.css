@@ -1,0 +1,11 @@
+h3{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+}
